@@ -1,0 +1,17 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+numpy = "*"
+"cv2" = "*"
+matplotlib = "*"
+opencv-python = "*"
+tensorflow-rocm = "2.2.0"
+pydot = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.6"
