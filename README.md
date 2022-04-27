@@ -1,9 +1,8 @@
 # Globally and Locally Consistent Image Completion
 
-このリポジトリはGLCICを実装したリポジトリ(https://github.com/neka-nat/image_completion_tf2)
-の改修仕様です。
+このリポジトリはneka-nat氏のリポジトリ(https://github.com/neka-nat/image_completion_tf2)
+を改修したものです。
 
-以下引用
 > This is a Tensorflow2 Keras implementation of ["Globally and Locally Consistent Image Completion"](http://hi.cs.waseda.ac.jp/%7Eiizuka/projects/completion/data/completion_sig2017.pdf).
 
 ## 動作環境
