@@ -7,8 +7,8 @@
 
 ## 動作環境
 - Hardware
-  - CPU: AMD Ryzen 1700
-  - Men: 64GB(DDR4)
+  - CPU: AMD Ryzen 7 1700
+  - Mem: 64GB(DDR4)
   - GPU: AMD Radeon RX480
 - Ubuntu 20.04.3 LTS (kernel: 5.4.0-53-generic)
 - ROCm version: 3.5.030
